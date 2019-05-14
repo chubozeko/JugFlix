@@ -4,8 +4,8 @@ import auth0 from "auth0-js";
 const ID_TOKEN_KEY = "id_token";
 const ACCESS_TOKEN_KEY = "access_token";
 
-const CLIENT_ID = "EeobY3jxsMoFREmqfmsZwAALQb73WeWm";
-const CLIENT_DOMAIN = "unicoder.auth0.com";
+const CLIENT_ID = "VjL8CDOEmgrgsSzeMgOnxS9gCv0_XdPf"; //"EeobY3jxsMoFREmqfmsZwAALQb73WeWm";
+const CLIENT_DOMAIN = "dev-62i9ur5o.auth0.com"; //"unicoder.auth0.com";
 const REDIRECT = "http://localhost:3000/callback";
 const SCOPE = "full:access";
 const AUDIENCE = "http://miniflix.com";
